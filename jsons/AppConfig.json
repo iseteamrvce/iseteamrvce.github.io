@@ -1,0 +1,168 @@
+{
+  "title": "Ramnagara Zilla Panchayath",
+  "navBar": {
+    "tabs": [
+      {
+        "value": "main",
+        "en_label": "Home",
+        "kn_label": "ಮುಖಪುಟ",
+        "url": "/",
+        "icon": "",
+        "list": []
+      },
+      {
+        "value": "about",
+        "en_label": "About",
+        "kn_label": "ತಾಲೂಕ್ ಬಗ್ಗೆ",
+        "url": "/about",
+        "icon": "",
+        "list": []
+      },
+      {
+        "value": "admin",
+        "en_label": "Administration",
+        "kn_label": "ಆಡಳಿತ",
+        "url": "/administration",
+        "icon": "",
+        "list": [
+          {
+            "value": "tpo",
+            "en_label": "Taluk Panchayath Officers",
+            "kn_label": "ತಾಲೂಕ್ ಪಂಚಾಯತ್ ಅಧಿಕಾರಿಗಳು",
+            "url": "/tpo",
+            "icon": ""
+          },
+          {
+            "value": "tpao",
+            "en_label": "Taluk Panchayath Admin Offices",
+            "kn_label": "ತಾಲೂಕ್ ಪಂಚಾಯತ್ ಆಡಳಿತ ಶಾಖೆಗಳು ",
+            "url": "/tpao",
+            "icon": ""
+          },
+          {
+            "value": "gpo",
+            "en_label": "Gram Panchayath Officers",
+            "kn_label": "Gram ಪಂಚಾಯತ್ ಆಡಳಿತ ಶಾಖೆಗಳು ",
+            "url": "/gpao",
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "value": "elected_officers",
+        "en_label": "Elected Officers",
+        "kn_label": "ಚುನಾಯಿತ ಪ್ರತಿನಿಧಿಗಳು",
+        "url": "/eos",
+        "icon": "",
+        "list": [
+          {
+            "value": "vidhana_sabha",
+            "en_label": "Vidhana Sabha and Vidhana Parishat",
+            "kn_label": "ವಿಧಾನಸಭೆ ಮತ್ತು ವಿಧಾನ ಪರಿಷತ್",
+            "url": "/vidhana_sabha",
+            "icon": ""
+          },
+          {
+            "value": "zillaPanchayat",
+            "en_label": "Zilla Panchayat Members",
+            "kn_label": "ಜಿಲ್ಲಾ ಪಂಚಾಯತ್ ಸದಸ್ಯರು",
+            "url": "/zp_members",
+            "icon": ""
+          },
+          {
+            "value": "TalukPanchayat",
+            "en_label": "Taluk Panchayat Members",
+            "kn_label": "ತಾಲ್ಲೂಕು ಪಂಚಾಯತ್ ಸದಸ್ಯರು",
+            "url": "/tp_members",
+            "icon": ""
+          },
+          {
+            "value": "president",
+            "en_label": "President and Vice President",
+            "kn_label": "ಅಧ್ಯಕ್ಷರು ಮತ್ತು ಉಪಾಧ್ಯಕ್ಷರು",
+            "url": "/president",
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "value": "am",
+        "en_label": "Associations/Meetings",
+        "kn_label": "ಸಮಿತಿ/ಸಭೆ",
+        "url": "/assoc_meet",
+        "icon": "",
+        "list": [
+          {
+            "value": "standing_committe",
+            "en_label": "Standing Committee",
+            "kn_label": "ಸ್ಥಾಯಿ ಸಮಿತಿಗಳು",
+            "url": "/standing_committee",
+            "icon": ""
+          },
+          {
+            "value": "meetings",
+            "en_label": "Meetings",
+            "kn_label": "ಸಭೆಗಳು",
+            "url": "/meetings",
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "value": "depts",
+        "en_label": "Departments",
+        "kn_label": "ಇಲಾಖೆಗಳು",
+        "url": "/departments",
+        "icon": "",
+        "list": []
+      },
+      {
+        "value": "ombudsman",
+        "en_label": "Ombudsman",
+        "kn_label": "ಓಂಬುಡ್ಸ್ ಮನ್",
+        "url": "/ombudsman",
+        "icon": "",
+        "list": []
+      },
+      {
+        "value": "rti",
+        "en_label": "RTI",
+        "kn_label": "ಆರ್ ಟಿ ಐ",
+        "url": "/rti",
+        "icon": "",
+        "list": []
+      },
+      {
+        "value": "press",
+        "en_label": "Press Gallery",
+        "kn_label": "ಮಾಧ್ಯಮ ಗ್ಯಾಲರಿ",
+        "url": "/press_gallery",
+        "icon": "",
+        "list": [
+          {
+            "value": "gallery",
+            "en_label": "Photo Gallery",
+            "kn_label": "ಫೋಟೋ ಗ್ಯಾಲರಿ",
+            "url": "/photo_gallery",
+            "icon": ""
+          },
+          {
+            "value": "gallery",
+            "en_label": "Video Gallery",
+            "kn_label": "ವೀಡಿಯೊ ಗ್ಯಾಲರಿ",
+            "url": "/video_gallery",
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "value": "contact",
+        "en_label": "Contact",
+        "kn_label": "ಸಂಪರ್ಕಿಸಿ",
+        "url": "/contact",
+        "icon": "",
+        "list": []
+      }
+    ]
+  }
+}
