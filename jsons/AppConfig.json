@@ -42,7 +42,7 @@
           {
             "value": "gpo",
             "en_label": "Gram Panchayath Officers",
-            "kn_label": "Gram ಪಂಚಾಯತ್ ಆಡಳಿತ ಶಾಖೆಗಳು ",
+            "kn_label": "ಗ್ರಾಮ ಪಂಚಾಯತ್ ಆಡಳಿತ ಶಾಖೆಗಳು ",
             "url": "/gpao",
             "icon": ""
           }
@@ -164,5 +164,43 @@
         "list": []
       }
     ]
+  },
+  "footerLinks": [
+    {
+      "link": "http://www.india.gov.in/",
+      "title": "MKSP",
+      "src": "india-gov.png"
+    },
+    {
+      "link": "https://digilocker.gov.in/",
+      "title": "DL",
+      "src": "Digilocker.png"
+    },
+    {
+      "link": "https://digitizeindia.gov.in/",
+      "title": "DI",
+      "src": "Digital_India_logo.png"
+    },
+    {
+      "link": "/",
+      "title": "Digital India",
+      "src": "make_in.png"
+    },
+    {
+      "link": "https://www.incredibleindia.org/content/incredibleindia/en.html",
+      "title": "MIN",
+      "src": "Incredible.png"
+    },
+    {
+      "link": "https://data.gov.in",
+      "title": "MIN",
+      "src": "datagov.png"
+    }
+  ],
+  "carousel_count": 3,
+  "people": {
+    "president": "president",
+    "vicePresident": "vicePresident",
+    "ceo": "ceo"
   }
 }
